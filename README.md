@@ -6,6 +6,6 @@ fork the repository and start working on it.
 
 best of luck.
 
-the cj\hanges i did is 
+the changes i did is 
 
 add  auto-save functionality with localStorage
