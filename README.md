@@ -5,3 +5,7 @@ hello there, your task is to implement auto-save functionality with localStorage
 fork the repository and start working on it.
 
 best of luck.
+
+the cj\hanges i did is 
+
+add  auto-save functionality with localStorage
